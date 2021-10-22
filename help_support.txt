@@ -1,0 +1,6 @@
+Install Python3.5 -
+
+https://tecadmin.net/install-python-3-5-on-ubuntu/
+
+
+
